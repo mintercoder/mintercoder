@@ -9,7 +9,7 @@
 <a href="https://github.com/mintercoder">
   <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
 </a>
-<a href="https://mintercoder.gumroad.com/">
+<a href="https://mintercoder.gumroad.com/l/buy-me-a-coffee">
   <img src="https://img.shields.io/badge/Gumroad-Support-orange?style=for-the-badge&logo=gumroad" />
 </a>
 
